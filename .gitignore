@@ -11,3 +11,4 @@ __pycache__/
 # Virtual Environment folder
 # This line tells Git to ignore the 'myenv' directory
 myenv/
+.venv/
