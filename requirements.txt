@@ -1,0 +1,17 @@
+Django==5.0
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.0
+django-cors-headers==4.3.1
+django-filter==23.5
+Pillow==10.1.0
+python-decouple==3.8
+psycopg2-binary==2.9.9  # PostgreSQL
+celery==5.3.4  # Background tasks
+redis==5.0.1  # Celery broker
+
+# Data Science and Machine Learning
+
+# Utilities
+gunicorn==21.2.0  # Production server
+whitenoise==6.6.0  # Static files
+drf-spectacular==0.27.0  # API documentation
